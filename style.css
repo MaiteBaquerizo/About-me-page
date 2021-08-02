@@ -1,0 +1,44 @@
+a {
+     color: yellow;
+   }
+   h1 {
+     font-size: 50px;
+   }
+   h2{
+     color: pink
+   }
+   }
+   img {
+     margin: 5px 0px 0px 0px;
+     border: px solid white;
+     border-radius: 20px;
+
+   }
+   ul {
+     padding: 10px;
+     background:rgba(54,1,53222,0.5 );
+   }
+   li {
+     display: inline;
+     padding: 0px 20px 0px 20px;
+
+   }
+   article {
+     max-width: 500px;
+     padding: 30px;
+     margin: 0 auto;
+     color: white;
+     background: #548
+   }
+   @media (max-width: 500px) {
+     h1 {
+       font-size: 36px;
+       padding: 10px;
+       
+       
+
+     }
+     li {
+       padding: 4px;
+       display: block;
+     }
